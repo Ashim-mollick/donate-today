@@ -1,0 +1,39 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+
+.header-area {
+    background-image: url(images/donation1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 100px 200px;
+    text-align: center;
+
+}
+
+.header-area h1 {
+    font-size: 65px;
+    font-weight: 700;
+    color: #fff;
+    text-align: center;
+}
+
+.header-area p {
+    font-size: 18px;
+    text-align: center;
+    color: #fff;
+    padding-bottom: 20px;
+}
+
+
+
+.button-style {
+
+    color: #fff;
+    background-color: #FF5959;
+    font-size: 20px;
+    padding: 16px 20px;
+    text-decoration: none;
+    border-radius: 5px;
+}
