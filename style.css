@@ -37,3 +37,62 @@ body {
     text-decoration: none;
     border-radius: 5px;
 }
+
+.amount-select-area {
+    padding: 0 100px;
+}
+
+.title-area {
+    text-align: center;
+    padding-top: 50px;
+}
+
+.title-area h2 {
+    color: #121212;
+    font-size: 45px;
+    font-weight: 700;
+}
+
+.amount ul {
+    list-style: none;
+}
+
+.amount ul li {
+    display: inline-block;
+    padding-left: 10px;
+}
+
+.amount ul li a {
+    color: #707070;
+    text-decoration: none;
+    font-size: 30px;
+    font-weight: 700;
+    padding: 25px 25px;
+}
+
+.amount ul li a.orange {
+    color: #FF5959;
+    background-color: #FFEEEE;
+    border: 2px solid #FF5959;
+}
+
+.amount {
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.other-amount {
+    padding-top: 60px;
+    border-bottom: 1px solid #DADADA;
+    padding-bottom: 10px;
+}
+
+.other-amount a {
+    text-decoration: none;
+    color: #B3B3B3;
+}
+
+.button {
+    padding-top: 50px;
+}
