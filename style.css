@@ -198,3 +198,32 @@ p.content-top {
 .footer-area p {
     color: #fff;
 }
+
+section.contact-form-area {
+    padding: 50px 100px;
+    text-align: left;
+}
+
+
+
+.contact-from {
+    padding: 10px 100px 100px 100px;
+    text-align: left;
+    background-color: #FFF4D6;
+    ;
+}
+
+
+.contact-from input {
+    padding: 10px 20px;
+    margin-bottom: 15px;
+    font-size: 18px;
+    width: 100%;
+}
+
+.contact-from textarea {
+    width: 100%;
+    padding: 10px 20px;
+    margin-bottom: 50px;
+    font-size: 18px;
+}
